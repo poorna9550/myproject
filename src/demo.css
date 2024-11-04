@@ -1,0 +1,11 @@
+ul{
+    list-style: none;
+    margin:0px;
+    padding: 0px;
+}
+
+tr,td,th{
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
